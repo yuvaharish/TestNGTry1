@@ -24,6 +24,7 @@ public class ExcelClass {
 		{"admin","admin1"},
 		{"admin","admin1"},
 		{"admin","admin1"},
+			{"admin123"},{"admin"},	
 	};
 	
 	
